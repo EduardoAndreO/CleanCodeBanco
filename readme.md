@@ -2,7 +2,7 @@
 
 Proyecto de consola en **C# (.NET 8.0)** que demuestra **5 principios de nombramiento** de *Clean Code* (Robert C. Martin). Cada principio tiene una versión **SUCIA** (principio roto) y una versión **LIMPIA** (principio aplicado), dentro de un dominio bancario: cuentas, retiros, intereses y transferencias.
 
-> **Asignatura:** Clean Code · **Tarea:** Semana 2 · **Lenguaje:** C# · **Duración del video:** 8 min 10 s
+> **Asignatura:** Clean Code · **Tarea:** Semana 2 · **Lenguaje:** C# · **Duración del video:** 10 min
 
 ---
 
@@ -63,5 +63,4 @@ CleanCodeBanco/
 
 Cada archivo de módulo contiene: el método `EjecutarDemo()` (imprime la comparación en pantalla), la clase **SUCIA** (con comentarios que marcan cada error) y la clase **LIMPIA** (con los nombres corregidos).
 
-> 💡 **Consejo final:** cuando el docente interrumpa con preguntas, la respuesta más fuerte siempre está en el propio proyecto: **muestra el archivo, señala el nombre, ejecuta la demo**. Defender código es eso: no recitar teoría, sino demostrar con el proyecto abierto que cada decisión tiene una razón.
 ```
